@@ -21,7 +21,7 @@ A simple python script to fetch a player's currents ranks on League of Legends
 
 4. install the required packages with `pip install -r requirements.txt`
 
-5. create an `.env` file then write `API_key=(your api key)` inside
+5. create an `.env` file then write `RIOT_API_KEY=(your api key)` inside
 
 
 ## How to start
